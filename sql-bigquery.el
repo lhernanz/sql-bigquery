@@ -1,4 +1,4 @@
-;;; sql-bigquery --- Adds Bigquery support to SQLi mode. -*- lexical-binding: t -*-
+;;; sql-bigquery.el --- Adds Bigquery support to SQLi mode. -*- lexical-binding: t -*-
 
 ;; Copyright 2020- Martin Nowak <code+sql-bigquery@dawg.eu>
 
